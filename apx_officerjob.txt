@@ -1,1 +1,1 @@
-{"version":"0.9.9", "notes":"Early Release Version"}
+{"version":"1.0.1", "notes":"Fixed cuffing and escorting related issues + Adding escort command - Read the entire script update on our discord"}

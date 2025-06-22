@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"Fixed cuffing and escorting related issues + Adding escort command - Read the entire script update on our discord"}
+{"version":"1.0.2", "notes":"Fixed garage not accesable with target on multiple stations + Spike issues - Read the entire script update on our discord"}

@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":"Fixed garage not accesable with target on multiple stations + Spike issues - Read the entire script update on our discord"}
+{"version":"1.0.3", "notes":"Adjusted cuffing, escorting, put and remove from vehicle distance"}

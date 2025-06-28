@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"Adjusted cuffing, escorting, put and remove from vehicle distance - Read full script update in our discord"}
+{"version":"1.0.4", "notes":"Performance update - Read full script update in our discord"}

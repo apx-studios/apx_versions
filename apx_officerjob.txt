@@ -1,1 +1,1 @@
-{"version":"1.0.4", "notes":"Performance update - Read full script update in our discord"}
+{"version":"1.0.5", "notes":"Handcuffing, escorting bugfixes - Read full script update in our discord"}

@@ -1,1 +1,1 @@
-{"version":"0.0.1", "notes":"Development State"}
+{"version":"0.0.2", "notes":"Pullrequest added compatibility for new clothing and carkeys - See updated files on github: https://github.com/apx-studios/apx_core"}

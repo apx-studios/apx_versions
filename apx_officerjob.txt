@@ -1,1 +1,1 @@
-{"version":"1.0.6", "notes":"Fixed reported issues + Added the option for hardcuff - Read full script update in our discord"}
+{"version":"1.0.7", "notes":"Fixed reported issues (Searching wrong players, people could place others in vehicle without cuffs) + Added the option to change to screencapture instead of screenshot-basic"}
